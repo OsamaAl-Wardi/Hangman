@@ -6,17 +6,17 @@ A python3 scripted Hangman that uses an API to acquire its words.
 ## Requirements
 - You will need pip3 installed.
 ```console
-$ sudo apt-get install python3-pip
+user@Osama:~$ sudo apt-get install python3-pip
 ```
 - You will need the random-word modules installed. This can be done in two ways:
 
 ```console
-$ easy_install random-word
+user@Osama:~$ easy_install random-word
 ```
 Or
 
 ```console
-$ pip install random-word
+user@Osama:~$ pip install random-word
 ```
 ## Basic Usage
 ```python
