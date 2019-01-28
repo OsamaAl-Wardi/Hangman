@@ -1,6 +1,9 @@
 # Hangman
 A python scripted Hangman that uses an API to acquire its words.
 
+![screenshot from 2019-01-28 14-34-08](https://user-images.githubusercontent.com/34874686/51839726-5721f880-230a-11e9-93ec-cc3608cd6077.png)
+
+
 ## Requirements
 - 
 
