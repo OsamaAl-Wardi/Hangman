@@ -4,7 +4,7 @@ A python3 scripted Hangman that uses an API to acquire its words.
 ![screenshot from 2019-01-28 14-34-08](https://user-images.githubusercontent.com/34874686/51839726-5721f880-230a-11e9-93ec-cc3608cd6077.png)
 
 ## Requirements
-- You will need pip installed.
+- You will need pip3 installed.
 ```console
 $ sudo apt-get install python3-pip
 ```
@@ -37,3 +37,5 @@ for more please visit [random-word PyPI](https://pypi.org/project/random-word/).
 - I was inroduced to the basics natural language processing, semantic similarities and corpus meanings.
 ## Future Projects
 - I believe that creating a maschine learining algorithm and training it solve Hangman would be very interesting. As the data set can be very massive.
+## Contact me
+You can contact me on [Linkedin](https://www.linkedin.com/in/osamaalwardi/)
