@@ -138,7 +138,8 @@ hang_stages = [
 def hangman ():
     misses = 0
     #Generate random word that is common
-    word = r.get_random_word(hasDictionaryDef="true", includePartOfSpeech="noun,verb", minCorpusCount=145051, maxCorpusCount=1022775, minLength=4, maxLength=7)
+    word = r.get_random_word(hasDictionaryDef="true", includePartOfSpeech="noun,verb",
+                             minCorpusCount=145051, maxCorpusCount=1022775, minLength=4, maxLength=7)
     #The word displayed to the player with - covering the undiscovered characters
     display_word = ["-" for i in range(len(word))]
     print (*display_word)
